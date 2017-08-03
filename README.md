@@ -1,2 +1,2 @@
 # datasciencecoursera
-created per data science course 1 week 4 project
+Data Science specialization course @Coursera
